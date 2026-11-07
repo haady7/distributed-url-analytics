@@ -1,0 +1,5 @@
+aws_region               = "ap-south-1"
+project_name             = "linkpulse"
+admin_cidr               = "203.0.113.10/32" # Replace with your own public IP /32
+key_name                 = "" # Leave blank to use SSM Session Manager
+# db_password = "Set securely outside source control; never commit your real value."
