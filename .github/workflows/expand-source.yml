@@ -46,3 +46,5 @@ jobs:
             git commit -m "Add LinkPulse application, tests, and deployment files"
             git push
           fi
+
+# Re-run after fixing the staged source payload.
